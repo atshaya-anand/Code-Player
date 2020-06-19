@@ -3,7 +3,7 @@
 Code Player is a simple HTML editor where users can edit HTML,CSS and JavaScript documents and view the implementation accordingly.
 
 ## Tools Used
-![HTML5](https://icon-library.net/images/html5-icon/html5-icon-0.jpg)
+![HTML5](https://pathowe.co.uk/wp-content/uploads/2017/02/HTML5.png)
 ![CSS3](https://seeklogo.com/images/C/css3-logo-8724075274-seeklogo.com.png)
 ![jQuery](https://openjsf.org/wp-content/uploads/sites/84/2019/10/jquery-logo-vertical_large_square.png)
 
