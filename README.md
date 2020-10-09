@@ -21,5 +21,3 @@ Textareas have been used for the editable panels and the output is shown with th
 ## Contributing
 
 Pull requests are welcome. For major changes, Please open an issue first to discuss what you would like to change.
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=atshaya_anand)](https://github.com/anuraghazra/github-readme-stats)
